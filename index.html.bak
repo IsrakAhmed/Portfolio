@@ -832,7 +832,6 @@
     </section>
 
     <!-- Professional Experience Section -->
-	<!--
     <section id="experience" class="section" aria-labelledby="experience-title">
         <div class="container">
             <div class="section-title">
@@ -874,7 +873,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 
     <!-- Projects Section -->
     <section id="projects" class="section section-alt" aria-labelledby="projects-title">
